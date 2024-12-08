@@ -17,3 +17,5 @@ R
 "tests/utils/ contract-simulator.ts,5/c/5c793a2fb1164ae006f52675593d372e765b2624
 S
 #tests/simulation-parameters.test.ts,d/c/dc8126cebd246b4e44632b69f13e90bb0f2ef709
+O
+tests/computation-token.test.ts,7/3/73a633ce2493ee58e77b9b0fda69d4c69aac8923
