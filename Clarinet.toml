@@ -5,6 +5,12 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+
+[contracts.computation-token]
+path = 'contracts/computation-token.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.simulation-parameters]
 path = 'contracts/simulation-parameters.clar'
 clarity_version = 2
