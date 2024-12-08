@@ -13,3 +13,7 @@ J
 contracts/peer-review.clar,3/f/3fbff5bcca5f761a6bcd1d3c6652e581337d18f6
 Q
 !contracts/space-mission-data.clar,1/4/149219dce215cc03a83e672e4d5af94f092a0709
+R
+"tests/utils/ contract-simulator.ts,5/c/5c793a2fb1164ae006f52675593d372e765b2624
+S
+#tests/simulation-parameters.test.ts,d/c/dc8126cebd246b4e44632b69f13e90bb0f2ef709

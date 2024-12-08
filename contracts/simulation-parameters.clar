@@ -1,4 +1,4 @@
-;; c
+;; simulation-parameters contract
 
 (define-data-var next-simulation-id uint u0)
 
