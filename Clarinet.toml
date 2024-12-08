@@ -1,0 +1,39 @@
+[project]
+name = 'Panspermia-Simulation-Platform'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.celestial-body-nft]
+path = 'contracts/celestial-body-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.computation-token]
+path = 'contracts/computation-token.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.peer-review]
+path = 'contracts/peer-review.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.simulation-parameters]
+path = 'contracts/simulation-parameters.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.space-mission-data]
+path = 'contracts/space-mission-data.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
