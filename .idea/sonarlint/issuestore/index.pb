@@ -9,3 +9,5 @@ P
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 Q
 !contracts/celestial-body-nft.clar,b/9/b904a3ed945084797585c112d41c3f90d57919e1
+J
+contracts/peer-review.clar,3/f/3fbff5bcca5f761a6bcd1d3c6652e581337d18f6
